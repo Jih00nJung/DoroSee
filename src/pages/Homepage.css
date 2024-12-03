@@ -1,0 +1,37 @@
+.homepage {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    z-index: 10;
+}
+
+/*검색 기능*/
+.search {
+    position: fixed;
+    z-index: 15;
+    top: 5vh;
+    left: 35vw;
+}
+
+.img_reading_glasses {
+    width: 2.5vw;
+    height: 4vh;
+    border-radius: 5px;
+}
+
+.search_text {
+    resize: none;
+    height: 3.5vh;
+    font-size: 3vh;
+    border-radius: 5px;
+}
+
+/*지도*/
+
+.main_map {
+    width: 95vw;
+    height: 97vh;
+    z-index: 11;
+}
+
+
