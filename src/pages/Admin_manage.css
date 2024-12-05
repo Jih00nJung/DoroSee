@@ -1,0 +1,31 @@
+.admin_manage {
+    position: relative;
+    width: 100vw;
+    height: 97vh;
+    z-index: 10;
+}
+
+.header {
+    font-size: 3vh;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 2vh 0;
+    padding: 1vh 0 0 0;
+}
+
+.data_table {
+    width: 93.5vw;
+}
+
+.data_graph {
+    padding: 0.5vh;
+    border: solid 0.1vw gray;
+}
+
+.data_graph_id {
+    padding: 0.5vh;
+    border: solid 0.1vw gray;
+    text-align: center;
+    font-weight: bold;
+}
+

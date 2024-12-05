@@ -15,7 +15,6 @@ const Homepage = () => {
         const map = new kakao.maps.Map(container, options);
     }, [])
 
-
     return (
         <homepage className="homepage">
             <div className="search">
