@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "./components/Layout";
+import Layout from "./layout/Layout";
 import Homepage from "./pages/Homepage";
 import Admin_data from "./pages/Admin_data";
 import Admin_manage from "./pages/Admin_manage";
